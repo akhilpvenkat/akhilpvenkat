@@ -9,4 +9,4 @@
 - 💬 Ask me about nothing
 - 📫 How to reach me: Dont
 - 😄 Pronouns: ok
-- ⚡ Fun fact: Your bad at life
+- ⚡ Fun fact: You're bad at life

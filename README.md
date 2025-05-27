@@ -9,4 +9,5 @@
 - ⚡ Fun fact: You're bad at life
 ### 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilpvenkat&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilpvenkat&layout=compact&theme=tokyonight)
+
